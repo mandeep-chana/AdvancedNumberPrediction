@@ -19,9 +19,6 @@ This project implements an advanced number prediction system using ensemble mach
 
 ### Dependencies
 
-Claude Sonnet 3.5
-Here's a comprehensive README.md file for your GitHub repository:
-
 markdown
 Copy Code
 # Advanced Number Prediction System
@@ -54,18 +51,6 @@ matplotlib>=3.3.0
 seaborn>=0.11.0
 
 
-### Installation
-1. Clone the repository:
-bash
-git clone https://github.com/yourusername/advanced-number-predictor.git
-cd advanced-number-predictor
-
-
-2. Install required packages:
-bash
-pip install -r requirements.txt
-
-
 ## Usage
 
 ### Data Format
@@ -89,7 +74,6 @@ The system generates several outputs:
 advanced-number-predictor/
 ├── number_predictor.py
 ├── data.txt
-├── requirements.txt
 ├── README.md
 ├── analysis_plots/
 │   └── number_frequencies.png
