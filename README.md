@@ -55,7 +55,11 @@ seaborn>=0.11.0
 
 ### Data Format
 Create a `data.txt` file with tab-separated numbers in the range 1-50:
-1	15	23	45	12	...
+7	8	24	25	47
+3	4	27	29	37
+15	19	22	46	49
+1	3	13	16	43
+1	11	15	42	49......
 
 
 ### Running the Predictor
