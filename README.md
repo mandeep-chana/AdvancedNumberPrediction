@@ -63,6 +63,7 @@ bash
 python_number_predictor.py
 
 
+
 ### Output
 The system generates several outputs:
 - `predictions.txt`: Contains the predicted numbers with timestamps
@@ -72,7 +73,7 @@ The system generates several outputs:
 
 ## Project Structure
 advanced-number-predictor/
-├── number_predictor.py
+├── python_number_predictor.py
 ├── data.txt
 ├── README.md
 ├── analysis_plots/
