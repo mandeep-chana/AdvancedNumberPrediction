@@ -75,7 +75,7 @@ Create a `data.txt` file with tab-separated numbers in the range 1-50:
 
 ### Running the Predictor
 bash
-python number_predictor.py
+python_number_predictor.py
 
 
 ### Output
